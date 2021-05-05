@@ -20,3 +20,55 @@
   <td>229</td>
   </tr>
  </table>
+ 
+ <p>입출력 예 #1</p>
+
+<ul>
+<li>답을 도출하는 과정은 다음과 같습니다.</li>
+</ul>
+<table class="table">
+        <thead><tr>
+<th>n (10진법)</th>
+<th>n (3진법)</th>
+<th>앞뒤 반전(3진법)</th>
+<th>10진법으로 표현</th>
+</tr>
+</thead>
+        <tbody><tr>
+<td>45</td>
+<td>1200</td>
+<td>0021</td>
+<td>7</td>
+</tr>
+</tbody>
+      </table>
+<ul>
+<li>따라서 7을 return 해야 합니다.</li>
+</ul>
+
+<p>입출력 예 #2</p>
+
+<ul>
+<li>답을 도출하는 과정은 다음과 같습니다.</li>
+</ul>
+<table class="table">
+        <thead><tr>
+<th>n (10진법)</th>
+<th>n (3진법)</th>
+<th>앞뒤 반전(3진법)</th>
+<th>10진법으로 표현</th>
+</tr>
+</thead>
+        <tbody><tr>
+<td>125</td>
+<td>11122</td>
+<td>22111</td>
+<td>229</td>
+</tr>
+</tbody>
+      </table>
+<ul>
+<li>따라서 229를 return 해야 합니다.</li>
+</ul>
+</div>
+    </div>
