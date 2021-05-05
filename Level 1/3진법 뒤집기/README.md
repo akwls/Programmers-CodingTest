@@ -8,9 +8,8 @@
  </ul>
 <h5>입출력 예</h5>
 <table>
-  <th>
-  <td>n</td>
-  <td>result</td>
+  <th>n</th>
+  <th>result
   </th>
   <tr>
   <td>45</td>
