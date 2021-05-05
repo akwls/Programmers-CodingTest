@@ -10,14 +10,14 @@
 <table>
   <th>
   <td>n</td>
-  <tdresult</td>
+  <td>result</td>
   </th>
   <tr>
   <td>45</td>
   <td>7</td>
   </tr>
   <tr>
-  <td>125></td>
+  <td>125</td>
   <td>229</td>
   </tr>
  </table>
