@@ -7,5 +7,7 @@
   <li>n은 1 이상 100,000,000 이하인 자연수입니다.</li>
  </ul>
 <h5>입출력 예</h5>
-![image](https://user-images.githubusercontent.com/80630432/117161647-0ceb2400-adfd-11eb-8d04-eea0cbb2aaa1.png)
-
+|*n*|*result*|
+|------|---|---|
+|45|7|
+|125|229|
