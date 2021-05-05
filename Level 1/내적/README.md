@@ -1,3 +1,5 @@
+## 내적
+
 <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>길이가 같은 두 1차원 정수 배열 a, b가 매개변수로 주어집니다. a와 b의 <a href="https://en.wikipedia.org/wiki/Dot_product" target="_blank" rel="noopener">내적</a>을 return 하도록 solution 함수를 완성해주세요.</p>
 
