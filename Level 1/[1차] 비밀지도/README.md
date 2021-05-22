@@ -77,5 +77,4 @@
 </tr>
 </tbody>
       </table>
-<p><a href="http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/" target="_blank" rel="noopener">해설 보러가기</a></p>
 </div>
